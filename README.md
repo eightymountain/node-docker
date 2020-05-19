@@ -1,5 +1,5 @@
 # node-docker
 
 - nginx reverse proxy
-- node
+- node(express, socket.io)
 - redis
